@@ -5,7 +5,7 @@
 # │ as it is written in the following disclaimers:                   │
 # │   • http://unlicense.org/                                        │
 # ╚─────────────────────────────────────────────────────────────────*/
-OUT="redbean.com" # Change me!
+OUT="ceonlabs.com" # Change me!
 OUT_CMD="./${OUT}" # called with "build.sh run"
 
 #OUT_CMD="./${OUT} -SSS" # extra-sandboxed version of redbean
